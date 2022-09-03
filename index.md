@@ -3,3 +3,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of WelcomeToCat](https://octodex.github.com/images/welcometocat.png)
+
+```
+System.out.println("Communicate using Markdown");
+```
