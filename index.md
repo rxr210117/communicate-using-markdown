@@ -7,3 +7,7 @@
 ```
 System.out.println("Communicate using Markdown");
 ```
+
+- [x] Enrol in OOAD course at UTD
+- [ ] Create a good project for the course
+- [ ] Obtain a 4.00 GPA in OOAD
